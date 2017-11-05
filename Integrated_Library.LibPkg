@@ -56,7 +56,7 @@ GenerateClassCluster=0
 DocumentUniqueId=TPCTVUVW
 
 [Document2]
-DocumentPath=PCB_IntegratedCircuit.PcbLib
+DocumentPath=Copy of PCB_IntegratedCircuit.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
